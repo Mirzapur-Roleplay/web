@@ -5,6 +5,7 @@
     <!--====== Title ======-->
     <title> Mirzapur Roleplay Docs | Home</title>
     <?php include('../includes/head.php') ?>
+    
 </head>
 <body>
     

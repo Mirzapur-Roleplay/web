@@ -134,6 +134,7 @@
     </section>
     <!--====== GALLERY PART END ======-->
 
+    
     <!--====== TEAM PART START ======-->
     <section class="py-5 section-team">
         <div class="container text-center">
