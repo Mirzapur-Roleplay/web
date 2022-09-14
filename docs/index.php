@@ -14,14 +14,21 @@
         <h1 class="py-5">MZRP DOCS</h1>   
         <div class="row">
             <div class="col-12 col-md-4 ">
-                <a class="btn" href="/">
+
+                <a class="btn" href="/rules">
+                    
                     <div class="d-flex align-items-center justify-content-center" style="min-height:300px">
                         <div> 
                             <i class="bi bi-person display-1"></i>
-                            <h3>Run By The Civilians 2</h3>
+                            <h3>Server Rules</h3>
                             <p>
-                                Everything in the city is run by civilians apart from some local doctors at Pillbox. Hit up Twitter to find the right employee who can help you!
+                                This guide was written for the Mirzapur roleplay server.
+                                 <!-- To sign up for MZRP, -->
                             </p>
+
+                            <btn>
+                                Read
+                            </btn>
                         </div>
                     </div>
                 </a>
